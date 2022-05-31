@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy-WebAPITutorial.API", "Udemy-WebAPITutorial.API\Udemy-WebAPITutorial.API.csproj", "{6C97F6DA-CFB3-4A31-A419-68DC97BF12DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C97F6DA-CFB3-4A31-A419-68DC97BF12DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C97F6DA-CFB3-4A31-A419-68DC97BF12DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C97F6DA-CFB3-4A31-A419-68DC97BF12DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C97F6DA-CFB3-4A31-A419-68DC97BF12DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C57B80D5-D49C-45F8-91BD-7AF0B11A647E}
+	EndGlobalSection
+EndGlobal
