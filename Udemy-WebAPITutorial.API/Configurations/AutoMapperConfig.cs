@@ -15,6 +15,7 @@ namespace Udemy_WebAPITutorial.API.Configurations
             CreateMap<Country, UpdateCountryDTO>().ReverseMap();
 
             CreateMap<Hotel, HotelDTO>().ReverseMap();
+            CreateMap<Hotel, CreateHotelDTO>().ReverseMap();
         }
     }
 }
